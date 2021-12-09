@@ -1,0 +1,5 @@
+D:\Yamini\GitHub\Eficaa\EficaaDTMSServices\EficaaDTMSServices.DataAccessLayer\bin\Debug\EficaaDTMSServices.DataAccessLayer.dll
+D:\Yamini\GitHub\Eficaa\EficaaDTMSServices\EficaaDTMSServices.DataAccessLayer\bin\Debug\EficaaDTMSServices.DataAccessLayer.pdb
+D:\Yamini\GitHub\Eficaa\EficaaDTMSServices\EficaaDTMSServices.DataAccessLayer\obj\Debug\EficaaDTMSServices.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Yamini\GitHub\Eficaa\EficaaDTMSServices\EficaaDTMSServices.DataAccessLayer\obj\Debug\EficaaDTMSServices.DataAccessLayer.dll
+D:\Yamini\GitHub\Eficaa\EficaaDTMSServices\EficaaDTMSServices.DataAccessLayer\obj\Debug\EficaaDTMSServices.DataAccessLayer.pdb

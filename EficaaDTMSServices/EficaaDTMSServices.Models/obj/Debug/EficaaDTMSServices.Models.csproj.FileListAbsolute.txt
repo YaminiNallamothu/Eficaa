@@ -1,0 +1,6 @@
+D:\Yamini\GitHub\Eficaa\EficaaDTMSServices\EficaaDTMSServices.Models\bin\Debug\EficaaDTMSServices.Models.dll
+D:\Yamini\GitHub\Eficaa\EficaaDTMSServices\EficaaDTMSServices.Models\bin\Debug\EficaaDTMSServices.Models.pdb
+D:\Yamini\GitHub\Eficaa\EficaaDTMSServices\EficaaDTMSServices.Models\obj\Debug\EficaaDTMSServices.Models.csproj.AssemblyReference.cache
+D:\Yamini\GitHub\Eficaa\EficaaDTMSServices\EficaaDTMSServices.Models\obj\Debug\EficaaDTMSServices.Models.csproj.CoreCompileInputs.cache
+D:\Yamini\GitHub\Eficaa\EficaaDTMSServices\EficaaDTMSServices.Models\obj\Debug\EficaaDTMSServices.Models.dll
+D:\Yamini\GitHub\Eficaa\EficaaDTMSServices\EficaaDTMSServices.Models\obj\Debug\EficaaDTMSServices.Models.pdb

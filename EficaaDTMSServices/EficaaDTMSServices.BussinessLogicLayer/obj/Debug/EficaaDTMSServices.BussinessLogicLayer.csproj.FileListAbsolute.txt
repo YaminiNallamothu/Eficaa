@@ -1,0 +1,5 @@
+D:\Yamini\GitHub\Eficaa\EficaaDTMSServices\EficaaDTMSServices.BussinessLogicLayer\bin\Debug\EficaaDTMSServices.BussinessLogicLayer.dll
+D:\Yamini\GitHub\Eficaa\EficaaDTMSServices\EficaaDTMSServices.BussinessLogicLayer\bin\Debug\EficaaDTMSServices.BussinessLogicLayer.pdb
+D:\Yamini\GitHub\Eficaa\EficaaDTMSServices\EficaaDTMSServices.BussinessLogicLayer\obj\Debug\EficaaDTMSServices.BussinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Yamini\GitHub\Eficaa\EficaaDTMSServices\EficaaDTMSServices.BussinessLogicLayer\obj\Debug\EficaaDTMSServices.BussinessLogicLayer.dll
+D:\Yamini\GitHub\Eficaa\EficaaDTMSServices\EficaaDTMSServices.BussinessLogicLayer\obj\Debug\EficaaDTMSServices.BussinessLogicLayer.pdb

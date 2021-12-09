@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bf208141-7937-431b-a706-981c84c5ecf3": {
+      "ProjectGuid": "bf208141-7937-431b-a706-981c84c5ecf3",
+      "DisplayName": "EficaaDTMSServices",
+      "ColorIndex": 0
+    },
+    "799f2017-e7b0-4321-a830-ae73a12f5bfc": {
+      "ProjectGuid": "799f2017-e7b0-4321-a830-ae73a12f5bfc",
+      "DisplayName": "EficaaDTMSServices.Models",
+      "ColorIndex": 1
+    },
+    "a54195f4-54bd-4c01-a30a-46c0003ea5d5": {
+      "ProjectGuid": "a54195f4-54bd-4c01-a30a-46c0003ea5d5",
+      "DisplayName": "EficaaDTMSServices.BussinessLogicLayer",
+      "ColorIndex": 2
+    },
+    "ed028104-125c-47a3-aa2c-e45fd3bd63d2": {
+      "ProjectGuid": "ed028104-125c-47a3-aa2c-e45fd3bd63d2",
+      "DisplayName": "EficaaDTMSServices.DataAccessLayer",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
